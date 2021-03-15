@@ -1,0 +1,12 @@
+.DS_Store
+
+*.json
+
+*.pyc
+
+*~
+**/*~
+
+job/
+
+__pycache__/
